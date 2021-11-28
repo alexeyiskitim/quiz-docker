@@ -20,3 +20,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+#!/home/alexey000/python/quiz/env/bin python3
